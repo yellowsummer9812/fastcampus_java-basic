@@ -12,4 +12,9 @@ public class Student { // 한 JAVA파일 안에 public은 하나만 있어야한다. 파일 이름
 		System.out.println(studentName + "," + address);
 	}
 	
+	public String getStudentName() {
+		return studentName;
+	}
+	
+	
 }
