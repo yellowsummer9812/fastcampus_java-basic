@@ -1,4 +1,4 @@
-package stream;
+package inputstream;
 
 import java.io.Console;
 
